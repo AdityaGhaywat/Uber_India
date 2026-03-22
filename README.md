@@ -29,7 +29,7 @@ Uber ride dataset containing:
 ![Operations](Dashboards/Operational%20Metrics.png)
 
 ###  Driver Performance
-![Driver](Dashboardss/Driver%20Performance.png)
+![Driver](Dashboards/Driver%20Performance.png)
 
 ###  Trip Insights
 ![Trip](Dashboards/Trip%20Insight.png)
