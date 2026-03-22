@@ -55,7 +55,6 @@ Uber ride dataset containing:
 - Time-based features (Trip Hour, Weekend flag)  
 - Promotional eligibility logic  
 
-📄 Reference: :contentReference[oaicite:0]{index=0}  
 
 ---
 
@@ -67,4 +66,4 @@ Uber ride dataset containing:
 - Peak hour trip analysis  
 - Driver ranking based on performance  
 
-📄 Reference: :contentReference[oaicite:1]{index=1}  
+ 
