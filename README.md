@@ -52,7 +52,7 @@ Uber ride dataset containing:
 - Fare efficiency metrics (fare/km, fare/minute)  
 - Surge and high-risk ride classification  
 - City segmentation into Tier 1 vs Non-Tier 1  
-- Time-based features (Trip Hour, Weekend flag)  
+- Time based features (Trip Hour, Weekend flag)  
 - Promotional eligibility logic  
 
 
